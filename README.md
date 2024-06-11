@@ -2,7 +2,8 @@
  <h2>Python Projects on Data Science</h2> 
 
 <ol><li>Convex Hull<ul>
- <li>![Convex Hull](images/img1.png)</li>
+ <li>![Convex Hull](https://github.com/madimyn/Python-Projects/assets/64639820/a79bb7f0-b146-42bd-b416-115fbe6a1760)
+</li>
  <li>Brute Force Method</li>
  <li>Divide and Conquer Method</li>
  <li>Time complexity and tests</li>
