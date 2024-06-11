@@ -1,5 +1,5 @@
 # Python Projects
- Python Projects on Data Science 
+ <h2>Python Projects on Data Science</h2> 
 
 <ol><li>Convex Hull<ul>
  <li>Brute Force Method</li>
@@ -15,3 +15,10 @@
   <li>Drawing graphs and charts using built-in library matplotlib</li>
  </ul>
 </ol>
+ <h3>Things needed to run those programs</h3>
+<ul>
+ <li>Jupyter Notebook or similar environment</li>
+ <li>Install Pandas</li>
+ <li>Install Matplotlib</li>
+ <li>Install Folium</li>
+</ul>
